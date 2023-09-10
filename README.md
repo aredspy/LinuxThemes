@@ -5,6 +5,9 @@
 https://github.com/aredspy/LinuxThemes/assets/106393710/cb508cc6-0f8e-451e-9a95-f6a693c69179
 
 
+### Alternate conky with VPN tunnel info:
+
+![alt conky](conky_alt.png)
 
 ## Stuff in here
 
