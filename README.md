@@ -1,6 +1,10 @@
 # Customized Linux Themes
 
-![sample](D2M.mp4)
+
+
+https://github.com/aredspy/LinuxThemes/assets/106393710/cb508cc6-0f8e-451e-9a95-f6a693c69179
+
+
 
 ## Stuff in here
 
